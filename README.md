@@ -1,9 +1,14 @@
 
-<div align=center><img width = '500' height ='300' src ="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/></div>
+<div align=center><img width = '500' height ='300' src ="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"></div>
 
 ## Hi, Ke Shen here! 
-
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
+- 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
+- 🙇 Just a stupid Computer Science Student
+- 💁 English name is Ascar. 
+- 🤷 Why not Oscar?
+- 🙆 According to lexicographic order, 
+- 🤦 A, make me ranked top of ur contact list.
+<img align="right" alt="Most Used Language" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
 
 
 ---
