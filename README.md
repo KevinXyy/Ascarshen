@@ -22,7 +22,7 @@
 <h3>My github stats</h3>
 
 <img align="left" alt="Ascar's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
-<img align="right" alt="Ascar's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ascarshen&count_private=true">
+<img align="left" alt="Ascar's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ascarshen&count_private=true">
 
 
 ---
