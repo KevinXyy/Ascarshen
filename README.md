@@ -1,7 +1,5 @@
 ![](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 
-
-[![Ascar's github stats](https://github-readme-stats.vercel.app/api?username=Ascarshen)](https://github.com/Ascarshen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact)](https://github.com/Ascarshen/github-readme-stats)
 
 <!--
@@ -9,7 +7,7 @@
 
 
 Here are some ideas to get you started:
-
+[![Ascar's github stats](https://github-readme-stats.vercel.app/api?username=Ascarshen)](https://github.com/Ascarshen/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
