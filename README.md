@@ -2,7 +2,7 @@
 
 
 [![Ascar's github stats](https://github-readme-stats.vercel.app/api?username=Ascarshen)](https://github.com/Ascarshen/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact)](https://github.com/Ascarshen/github-readme-stats)
 
 <!--
 **Ascarshen/Ascarshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
