@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact)](https://github.com/Ascarshen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact)](https://github.com/Ascarshen/)
 
 <!--
 **Ascarshen/Ascarshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
