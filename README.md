@@ -1,9 +1,7 @@
 ![](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ascarshen)](https://github.com/Ascarshen/github-readme-stats)
-
-
+[![Ascar's github stats](https://github-readme-stats.vercel.app/api?username=Ascarshen)](https://github.com/Ascarshen/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen)
 
 <!--
