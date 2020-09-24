@@ -1,7 +1,7 @@
 
-<div align=center><img width = '500' height ='300' src ="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif"/></div>
+<div align=center><img width = '500' height ='300' src ="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/></div>
 
-## Hey, Ke Shen here! 
+## Hi, Ke Shen here! 
 
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
 
