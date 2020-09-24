@@ -1,19 +1,26 @@
 
-<div align=center><img width = '500' height ='300' src ="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"></div>
+<h1 align="center">Hi, Ke Shen here 🤗! </h1>
+<h4 align="center">"Someone want to do something"</h4>
 
-## Hi, Ke Shen here! 
+---
+<img align="right" alt="Most Used Language" width="50%" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+
+
+
+
 - 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
-- 🙇 Just a stupid Computer Science Student
-- 💁 English name is Ascar. 
+- 🙇 Just a stupid **Computer Science Student**.
+- 💁 English name is **Ascar**. 
 - 🤷 Why not Oscar?
 - 🙆 According to lexicographic order, 
-- 🤦 A, make me ranked top of ur contact list.
-<img align="right" alt="Most Used Language" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
+- 🤦 "A" makes me ranked **top** of ur contact list.
+- 😊 Yea, its me, a **maverick** and **funny** guy
 
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true)
 
-
+![](https://img.shields.io/badge/Ascar-passing-green)
 
 <!--
 **Ascarshen/Ascarshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
