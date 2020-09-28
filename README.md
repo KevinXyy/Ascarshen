@@ -33,4 +33,21 @@
  </a>
 </p>
 
+
+<br/>
+<br/>
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+Bash   1 hr 17 mins    ███████████████▒░░░░░░░░░   61.74 % 
+YAML   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+TOML   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+HTML   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+C++    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+```
+<!--END_SECTION:waka-->
+
+
 ![](https://img.shields.io/badge/Ascar-passing-green)
