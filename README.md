@@ -36,7 +36,7 @@
 
 <br/>
 <br/>
-
+<!--
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
@@ -60,10 +60,9 @@
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
 </p>
 
-<hr>
+<hr>-->
 
 
-<!--
 **Languages and Tools:** 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
@@ -76,7 +75,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
--->
 
 #### :bar_chart: Weekly development breakdown
 
